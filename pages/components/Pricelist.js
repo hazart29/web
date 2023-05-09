@@ -1,6 +1,6 @@
 export default function Pricelist() {
     return (
-        <div id="pricelist" className="pt-16 pb-8">
+        <div id="pricelist" className="pt-16 pb-8 bg-gray-50">
             <div className="">
                 <div className="mx-auto max-w-7xl">
                     <div className="mx-auto max-w-2xl lg:mx-0">
