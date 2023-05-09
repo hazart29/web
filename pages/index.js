@@ -16,7 +16,7 @@ export default function Home() {
 
       <main className='flex flex-col flex-1 w-full h-screen'>
         <Header />
-        <div name='feature' className='flex flex-1 flex-col gap-12 w-full px-28'>
+        <div name='feature' className='flex flex-1 flex-col gap-12 w-full px-8 md:px-28'>
           <Feature />
           <Pricelist />
         </div>
