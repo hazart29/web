@@ -1,6 +1,6 @@
 export default function Feature() {
     return (
-        <div id="feature" className='flex flex-col gap-12 jusify-between h-screen pt-28'>
+        <div id="feature" className='flex flex-col gap-12 jusify-between pt-28'>
             <div className='flex flex-col'>
                 <p className='font-bold text-5xl'>Shine Photo</p>
                 <p>"Telling Story With Love"</p>
